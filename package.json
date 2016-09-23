@@ -1,0 +1,16 @@
+{
+  "name": "babel-jes-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-jest": "^15.0.0",
+    "babel-polyfill": "^6.13.0",
+    "jest": "^15.1.1"
+  }
+}
